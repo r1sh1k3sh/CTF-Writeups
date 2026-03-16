@@ -11,6 +11,7 @@ TryHackMe CTF writeups — penetration testing walkthroughs
    * [Capture!](https://github.com/r1sh1k3sh/CTF-Writeups/tree/main/TryHackMe/Capture!#ctf-write-up-capture)
    * [Cheese CTF](https://github.com/r1sh1k3sh/CTF-Writeups/tree/main/TryHackMe/Cheese%20CTF#ctf-write-up-cheese-ctf)
    * [Corridor](https://github.com/r1sh1k3sh/CTF-Writeups/tree/main/TryHackMe/Corridor#ctf-write-up-corridor)
+   * [Creative](https://github.com/r1sh1k3sh/CTF-Writeups/tree/main/TryHackMe/Creative#ctf-write-up-creative)
    * [CTF Collection Vol.1](https://github.com/r1sh1k3sh/CTF-Writeups/tree/main/TryHackMe/CTF%20Collection%20Vol.1#ctf-write-up-ctf-collection-vol1)
    * [h4cked](https://github.com/r1sh1k3sh/CTF-Writeups/tree/main/TryHackMe/h4cked#ctf-write-up-h4cked)
    * [Hijack](https://github.com/r1sh1k3sh/CTF-Writeups/tree/main/TryHackMe/Hijack#ctf-write-up-hijack)
