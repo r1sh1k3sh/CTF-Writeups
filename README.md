@@ -27,4 +27,5 @@ TryHackMe CTF writeups — penetration testing walkthroughs
    * [Team](https://github.com/r1sh1k3sh/CTF-Writeups/tree/main/TryHackMe/Team#ctf-write-up-team)
    * [Tech_Supp0rt:1](https://github.com/r1sh1k3sh/CTF-Writeups/tree/main/TryHackMe/Tech_Supp0rt%3A1#ctf-write-up-tech_supp0rt1)
    * [Tomghost](https://github.com/r1sh1k3sh/CTF-Writeups/tree/main/TryHackMe/Tomghost#ctf-write-up-tomghost)
+   * [U.A. High School](https://github.com/r1sh1k3sh/CTF-Writeups/tree/main/TryHackMe/U.A.%20High%20School#ctf-write-up-ua-high-school)
    * [Wgel CTF](https://github.com/r1sh1k3sh/CTF-Writeups/tree/main/TryHackMe/Wgel-CTF#ctf-write-up-wgel-ctf)
