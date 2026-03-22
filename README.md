@@ -23,6 +23,7 @@ TryHackMe CTF writeups — penetration testing walkthroughs
    * [Magician](https://github.com/r1sh1k3sh/CTF-Writeups/tree/main/TryHackMe/Magician#ctf-write-up-magician)
    * [Opacity](https://github.com/r1sh1k3sh/CTF-Writeups/tree/main/TryHackMe/Opacity#ctf-write-up-opacity)
    * [Pyrat](https://github.com/r1sh1k3sh/CTF-Writeups/tree/main/TryHackMe/Pyrat#ctf-write-up-pyrat)
+   * [Security Footage](https://github.com/r1sh1k3sh/CTF-Writeups/tree/main/TryHackMe/Security%20Footage#ctf-write-up-security-footage)
    * [Source](https://github.com/r1sh1k3sh/CTF-Writeups/tree/main/TryHackMe/Source#ctf-write-up-source)
    * [Team](https://github.com/r1sh1k3sh/CTF-Writeups/tree/main/TryHackMe/Team#ctf-write-up-team)
    * [Tech_Supp0rt:1](https://github.com/r1sh1k3sh/CTF-Writeups/tree/main/TryHackMe/Tech_Supp0rt%3A1#ctf-write-up-tech_supp0rt1)
