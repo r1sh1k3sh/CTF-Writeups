@@ -83,11 +83,11 @@ The last `Received` header is the key one — it shows the IP the email originat
 
 Search `"193.32.249.132"` on **[Google](https://www.google.com/)**:
 
-![Google Search](/Images/Screenshots/1.png)
+![Google Search](Images/Screenshots/1.png)
 
 Top result leads to **[Spur.us](https://spur.us/context/193.32.249.132)**:
 
-![Spur VPN Detection](/Images/Screenshots/2.png)
+![Spur VPN Detection](Images/Screenshots/2.png)
 
 Spur flags it as a **Mullvad VPN** exit node based in Amsterdam — the sender deliberately anonymised their traffic before sending the tip.
 
@@ -101,7 +101,7 @@ Spur flags it as a **Mullvad VPN** exit node based in Amsterdam — the sender d
 
 **Evidence:** `exhibit_b.png` — Dashcam image timestamped 26 Mar 2026 at 22:31 CET
 
-![Dashcam Image](/Images/exhibit_b.png)
+![Dashcam Image](Images/exhibit_b.png)
 
 From the ECTA memo (`ecta_memo.html.pdf`), the relevant passage reads:
 
@@ -115,7 +115,7 @@ So the vehicle departed Central Italy on the morning of 26 March, and was captur
 2. Add **Hulín** as a stop (it's the dashcam recovery location, so the station must be near there)
 3. Search for **ORLEN** service stations along that segment
 
-![ORLEN Station on Google Maps](/Images/Screenshots/3.png)
+![ORLEN Station on Google Maps](Images/Screenshots/3.png)
 
 There's one ORLEN station that fits — near Hulín, with truck parking, open 24/7, right on the D1.
 
@@ -256,11 +256,11 @@ On top of that, BR-0291 also tried to access the route planning folder via an ex
 
 Search `kraliknovak09@gmail.com`:
 
-![EPIEOS Email Search](/Images/Screenshots/4.png)
+![EPIEOS Email Search](Images/Screenshots/4.png)
 
 EPIEOS links the address to Google Account ID `103790956576446810107`, which has an active Google Maps contributor profile. Visit the profile URL and the display name is right there:
 
-![Google Maps Profile](/Images/Screenshots/5.png)
+![Google Maps Profile](Images/Screenshots/5.png)
 
 **Radovan Blšťák** — Route Planner, Brno, hometown Králice nad Oslavou. That's BR-0291.
 
